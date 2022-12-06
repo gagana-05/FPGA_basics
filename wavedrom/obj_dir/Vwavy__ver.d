@@ -1,0 +1,1 @@
+obj_dir/Vwavy.cpp obj_dir/Vwavy.h obj_dir/Vwavy.mk obj_dir/Vwavy__Slow.cpp obj_dir/Vwavy__Syms.cpp obj_dir/Vwavy__Syms.h obj_dir/Vwavy__Trace.cpp obj_dir/Vwavy__Trace__Slow.cpp obj_dir/Vwavy__ver.d obj_dir/Vwavy_classes.mk  : /usr/bin/verilator_bin /usr/bin/verilator_bin wavy.v 
